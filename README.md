@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🛍️ Shopper Template
 
 A modern and fully responsive **eCommerce Website Template** for online shopping. Designed with clean UI/UX patterns, ideal for showcasing products, categories, and a functional shopping cart.
@@ -45,4 +45,3 @@ A modern and fully responsive **eCommerce Website Template** for online shopping
 - 🧩 Reusable components (header, footer, cards)
 - 🌐 Bootstrap 5 & Bootstrap Icons integration
 - 📦 Simple cart logic with localStorage (if JS used)
->>>>>>> 803963a66978d5a3a9ebd622606a7aa0143a297d
